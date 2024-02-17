@@ -2,6 +2,8 @@
 
 This repository contains the MATLAB implementation of the research paper titled "Computed Tomography Ring Artifact Correction Method with Super-Pixel and Adaptive Relative Total Variation" by Na Li and Xiaokun Liang (E-mail: xk.liang@siat.ac.cn).
 
+![Results](results.png)
+
 ## Overview
 
 The method presented in this repository addresses the significant challenge of removing ring artifacts in computed tomography (CT) images. It specifically targets the complexities introduced by photon counting CT (PCCT) technology, using a combination of super-pixel segmentation and an adaptive form of Relative Total Variation (RTV). This dual-stage approach not only ensures the efficient correction of artifacts but also maintains the integrity and balance of the image details, which is crucial in medical imaging applications.
