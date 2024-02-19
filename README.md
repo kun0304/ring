@@ -39,10 +39,6 @@ git clone https://github.com/kun0304/ring.git
 
 Contributions to improve the algorithm are welcome. Please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is released under the MIT License - see [LICENSE.md](LICENSE.md) for details.
-
 ## Acknowledgments
 
 This work has been significantly aided by the code and methods developed in the following research articles:
