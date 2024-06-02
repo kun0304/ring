@@ -1,6 +1,6 @@
 # Computed Tomography Ring Artifact Correction Method with Super-Pixel and Adaptive Relative Total Variation
 
-This repository contains the MATLAB implementation of the research paper titled "Computed Tomography Ring Artifact Correction Method with Super-Pixel and Adaptive Relative Total Variation" by Na Li and Xiaokun Liang (E-mail: xk.liang@siat.ac.cn).
+This repository contains the MATLAB implementation of the research paper titled "Computed Tomography Ring Artifact Correction Method with Super-Pixel and Adaptive Relative Total Variation" by Na Li (E-mail: na.li3@gdmu.edu.cn).
 
 ## Overview
 
