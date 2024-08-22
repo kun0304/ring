@@ -1,13 +1,13 @@
 %   ==========
 %   The Code is created based on the method described in the following paper 
-%   "Computed Tomography Ring Artifact Correction Method with Super-Pixel and Adaptive Relative Total Variation", Na Li and Xiaokun Liang.
+%   "Computed Tomography Ring Artifact Correction Method with Super-Pixel and Adaptive Relative Total Variation", Na Li.
 %   The paper was under review in the journal
 %   The code and the algorithm are for non-comercial use only.
 %  
-%   Corresponding Author: Xiaokun Liang (xk.liang@siat.ac.cn)
+%   Na Li (na.li3@gdmu.edu.cn)
 %   Date  : 17 Feb 2024
 %   Version : 1.0 
-%   Copyright 2024, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
+%   Copyright 2024, Guangdong Medical University.
 
 clear
 close all
